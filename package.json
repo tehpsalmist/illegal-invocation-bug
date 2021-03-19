@@ -1,5 +1,5 @@
 {
-  "name": "parcel-react-tailwind-template",
+  "name": "illegal-invocation-bug",
   "version": "0.0.1",
   "main": "index.html",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tehpsalmist/parcel-react-tailwind-template.git"
+    "url": "git+ssh://git@github.com/tehpsalmist/illegal-invocation-bug.git"
   },
   "keywords": [
     "parcel",
@@ -19,9 +19,9 @@
   "author": "Ben Steward <bstewardcodes@gmail.com> (https://tehpsalmist.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tehpsalmist/parcel-react-tailwind-template/issues"
+    "url": "https://github.com/tehpsalmist/illegal-invocation-bug/issues"
   },
-  "homepage": "https://github.com/tehpsalmist/parcel-react-tailwind-template#readme",
+  "homepage": "https://github.com/tehpsalmist/illegal-invocation-bug#readme",
   "devDependencies": {
     "@parcel/transformer-postcss": "^2.0.0-nightly.488",
     "@types/react": "latest",
