@@ -1,0 +1,6 @@
+.parcel-cache
+node_modules
+public
+dist
+apollo.config.js
+.env
